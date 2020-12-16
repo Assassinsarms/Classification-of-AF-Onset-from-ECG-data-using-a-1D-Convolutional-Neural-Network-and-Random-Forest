@@ -9,4 +9,4 @@ Out of the 2 CNNs, there is a small one with 1 convolutional layer and a larger 
 
 At the end of the file, there is an implementation of the Extra Trees classifier for the ECG data.
 
-Performance metrics taken for all classifiers are the confusion matrix, precision, recall and F1 score.
+Performance metrics taken for all classifiers are the confusion matrix, accuracy, precision, recall and F1 score.
