@@ -1,5 +1,5 @@
 # INM701_Coursework
-Classification of Atrial Fibrillation from ECG data using a 1D Convolutional Neural Network and Random Forest
+Classification of Atrial Fibrillation Onset from ECG data using a 1D Convolutional Neural Network and Random Forest
 
 File name: Aaron_Mir_INM701_Coursework
 
